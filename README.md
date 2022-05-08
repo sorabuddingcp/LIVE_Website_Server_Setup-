@@ -87,7 +87,7 @@ b) sudo systemctl reload apache2
 6.	Environment test –
 a.	 vim /home/example/public/info.php
 b.	<?php phpinfo(); ?>
-c.	(Check php info.php) 
+c.	(Check php info.php) .
 d.	(http://server_domain_or_IP/info.php ). 127.0.0.1/info.php (Your ip address/info.php)
 
 
